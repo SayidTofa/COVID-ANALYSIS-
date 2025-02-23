@@ -1,3 +1,19 @@
+## Table of Contents
+- [Project Description](#project-description)
+- [Project Objectives](#project-objectives)
+  - [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Data Visualization](#data-visualization)
+- [Key Insights](#key-insights)
+  - [Health Conditions & Severity](#health-conditions--severity)
+  - [Demographics & Outcomes](#demographics--outcomes)
+  - [Hospitalization Trends](#hospitalization-trends)
+- [Recommendations](#recommendations)
+  - [Public Health Awareness](#public-health-awareness)
+  - [Hospital Resource Planning](#hospital-resource-planning)
+  - [Preventive Measures](#preventive-measures)
+
+
 ## Project Description
 This project performs an Exploratory Data Analysis (EDA) on COVID-19 data to understand various factors affecting patients. The dataset contains patient information, including demographics, health conditions, and hospitalization status. The analysis includes data cleaning, transformation, and visualization using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
